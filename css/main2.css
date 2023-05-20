@@ -1,0 +1,180 @@
+body{
+    background-color: #2e6da4;
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+.nav-menu{
+    margin:  0;
+    padding: 0;
+    text-align: center;
+
+}
+.nav-item{
+    display: inline-block;/*yonma yon qoyish*/
+    padding: 25px 20px;
+
+}
+.nav-item a{
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.nav-item:hover{
+    background-color: #f1f1f1;
+}
+
+.nav-item a:hover{
+    color: deepskyblue;
+}
+
+.bb{
+    margin-right: 300px;
+    margin-bottom: -40px;
+    margin-left: 20px;
+}
+.nav-item{
+    position: relative;
+    padding-right: 25px;
+}
+.drop-item:after{
+    content: '';
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    background-image: url("../foto/4.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 200%;
+    /*vertical-align: middle;*/
+    /*margin-left: 5px*/
+    position: absolute;
+    top: 40%;
+    right: 5px;
+    transform: rotate(270deg);
+}
+
+.nav-item:hover .drop-menu{
+    display: block;
+}
+.nav-item1:hover  .drop-menu{
+    display: block;
+}
+.nav-item2:hover    .drop-menu{
+    display: block;
+}
+.dd{
+    width:16px ;
+    height:16px ;
+    margin: -3px auto;
+}
+.drop-item1:after{
+    display: inline-block;
+    background-image: url("../foto/4.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 200%;
+    /*vertical-align: middle;*/
+    /*margin-left: 5px*/
+    position: absolute;
+    top: 40%;
+    right: 5px;
+}
+.nav-item1 a{
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+}
+.nav-item1:hover{
+    background-color: #f1f1f1;
+}
+.nav-item1{
+    position: relative;
+    padding-right: 25px;
+}
+.nav-item1{
+    display: inline-block;
+    padding: 25px 30px;
+}
+.nav-item1 a:hover{
+    color: deepskyblue;
+}
+
+.nav-item2 a{
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+}
+.nav-item2:hover{
+    background-color: #f1f1f1;
+}
+.nav-item2 a:hover{
+    color: deepskyblue;
+}
+.nav-item2{
+    display: inline-block;
+    padding: 25px 30px;
+}
+.nav-item2{
+    position: relative;
+    padding-right: 25px;
+}
+.drop-item2:after{
+    content: '';
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    background-image: url("../foto/4.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 200%;
+    /*vertical-align: middle;*/
+    /*margin-left: 5px*/
+    position: absolute;
+    top: 40%;
+    left: 5px;
+    transform: rotate(90deg);
+}
+.drop-menu-item{
+    list-style: none;
+    color: #808080;
+    padding: 10px 15px;
+    position: relative;
+}
+
+.drop-menu-item >.drop-menu{
+    left: 100%;
+    top: 0;
+}
+.drop-menu-item:hover .drop-menu{
+    display:block;
+}
+.drop-menu-item:hover{
+    color: white;
+}
+.drop-menu {
+    background-color: white;
+    /*z-index: 1;*/
+    display: none;
+    transition: all 0.5s;
+    border-top: #2e6da4 2px solid;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 205px;
+}
+.nav-item >.drop-menu{
+    left: 100%;
+    top: 0;
+    padding-bottom: 100px;
+}
+.nav-item:hover >.drop-menu{
+    display: block;
+}

@@ -1,0 +1,107 @@
+body{
+    background-color: midnightblue;
+}
+.aa{
+    margin: 250px auto;
+    padding-left: 500px;
+}
+.wrap{
+    width: 1200px;
+    margin: 10px auto;
+    background-color: midnightblue;
+    padding: 15px;
+    box-sizing: border-box;
+
+}
+.btn{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 2px solid red;
+    border-radius: 8px;
+    transition: all 0.2s ease-in;
+    color: red;
+}
+.btn:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}.btn1{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 1px solid greenyellow;
+
+    border-radius: 21px;
+    transition: all 0.2s ease-in;
+    color: white;
+    background-color: greenyellow;
+}
+.btn1:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}.btn2{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 1px solid deepskyblue;
+
+    border-radius: 10px;
+    transition: all 0.2s ease-in;
+    color: white;
+    background-color: deepskyblue;
+ }
+.btn2:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.wrap3{
+    width: 1200px;
+    margin: 10px auto;
+    background-color: midnightblue;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.btn3{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 2px solid coral;
+
+    border-radius: 8px;
+    transition: all 0.2s ease-in;
+    color: white;
+    background-color: coral;
+}
+.btn3:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.btn4{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 2px solid green;
+
+    border-radius: 21px;
+    transition: all 0.2s ease-in;
+    color: white;
+
+}
+.btn4:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.btn5{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 2px solid blueviolet;
+
+    border-radius: 1px;
+    transition: all 0.2s ease-in;
+    color: blueviolet;
+}
+.btn5:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}

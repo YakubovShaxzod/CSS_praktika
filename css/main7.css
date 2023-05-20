@@ -1,0 +1,41 @@
+body{
+    background-color:#c8e9f0;
+    margin: 0;
+    padding: 0;
+}
+
+.flex-box{
+    border: 2px solid lightgrey;
+    background-size: 400px;
+    width: 400px;
+    height: 720px;
+    margin: 0 auto;
+    display: flex;/* yonma yon qoyish*/
+    background-image: url("../foto/7.png");
+    background-repeat: no-repeat;
+    background-color: white;
+    text-align: center ;
+}
+.flex-item{
+    padding: 10px 15px;
+}
+.flex-item p{
+    background-color: white;
+    padding: 20px;
+}
+.flex-item{
+    position: relative;
+}
+.badge {
+    background-color: coral;
+    color: #ffffff;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 20px;
+    padding: 0 5px;
+    position: absolute;
+    top: 26px;
+    left: 290px;
+    border-radius: 100px;
+}

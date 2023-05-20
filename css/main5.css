@@ -1,0 +1,388 @@
+body{
+    background-color: papayawhip;
+}
+.aa{
+    margin: 250px auto;
+    padding-left: 500px;
+}
+.wrap{
+    width: 1200px;
+    margin: 10px auto;
+    background-color: papayawhip;
+    padding: 15px;
+    box-sizing: border-box;
+
+}
+.btn{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 2px solid deepskyblue;
+    transition: all 0.2s ease-in;
+    color: white;
+    background-color: deepskyblue;
+}
+.btn:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}.btn1{
+     display: inline-block;
+     padding: 10px 16px;
+     text-decoration: none;
+     border: 1px solid greenyellow;
+     transition: all 0.2s ease-in;
+     color: white;
+     background-color: greenyellow;
+ }
+.btn1:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.btn2{
+     display: inline-block;
+     padding: 10px 16px;
+     text-decoration: none;
+     border: 1px solid aqua;
+     transition: all 0.2s ease-in;
+     color: white;
+     background-color: aqua;
+ }
+.btn2:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.btn3{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 1px solid coral;
+    transition: all 0.2s ease-in;
+    color: white;
+    background-color: coral;
+}
+.btn3:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.btn4{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 1px solid red;
+    transition: all 0.2s ease-in;
+    color: white;
+    background-color: red;
+}
+.btn4:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+
+.wrap3{
+    width: 1200px;
+    margin: 10px auto;
+    background-color: papayawhip;
+    padding: 15px;
+    box-sizing: border-box;
+
+}
+.btn5{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 2px solid deepskyblue;
+    transition: all 0.2s ease-in;
+    color: deepskyblue;
+    border-radius: 3px;
+}
+.btn5:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}.btn6{
+     display: inline-block;
+     padding: 10px 16px;
+     text-decoration: none;
+     border: 2px solid greenyellow;
+     transition: all 0.2s ease-in;
+     color: greenyellow;
+    border-radius: 3px;
+ }
+.btn6:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.btn7{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 2px solid aqua;
+    transition: all 0.2s ease-in;
+    color: aqua;
+    border-radius: 3px;
+}
+.btn7:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.btn8{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 2px solid coral;
+    transition: all 0.2s ease-in;
+    color: coral;
+    border-radius: 3px;
+}
+.btn8:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.btn9{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 2px solid red;
+    transition: all 0.2s ease-in;
+    color: red;
+    border-radius: 3px;
+}
+.btn9:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.wrap4{
+    width: 1200px;
+    margin: 10px auto;
+    background-color: papayawhip;
+    padding: 15px;
+    box-sizing: border-box;
+
+}
+.btn10{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 2px solid deepskyblue;
+    transition: all 0.2s ease-in;
+    color: white;
+    background-color: deepskyblue;
+    border-radius: 3px;
+}
+.btn10:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}.btn11{
+     display: inline-block;
+     padding: 10px 16px;
+     text-decoration: none;
+     border: 1px solid greenyellow;
+     transition: all 0.2s ease-in;
+     color: white;
+     background-color: greenyellow;
+     border-radius: 3px;
+ }
+.btn11:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.btn12{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 1px solid aqua;
+    transition: all 0.2s ease-in;
+    color: white;
+    background-color: aqua;
+    border-radius: 3px;
+}
+.btn12:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.btn13{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 1px solid coral;
+    transition: all 0.2s ease-in;
+    color: white;
+    background-color: coral;
+    border-radius: 3px;
+}
+.btn13:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.btn14{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 2px solid red;
+    transition: all 0.2s ease-in;
+    color: white;
+    background-color: red;
+    border-radius: 3px;
+}
+.btn14:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.wrap5{
+    width: 1200px;
+    margin: 10px auto;
+    background-color: papayawhip;
+    padding: 15px;
+    box-sizing: border-box;
+
+}
+.btn15{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 2px solid deepskyblue;
+    transition: all 0.2s ease-in;
+    color: white;
+    background-color: deepskyblue;
+    border-radius: 20px;
+}
+.btn15:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}.btn16{
+     display: inline-block;
+     padding: 10px 16px;
+     text-decoration: none;
+     border: 1px solid greenyellow;
+     transition: all 0.2s ease-in;
+     color: white;
+     background-color: greenyellow;
+     border-radius: 20px;
+ }
+.btn16:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.btn17{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 1px solid aqua;
+    transition: all 0.2s ease-in;
+    color: white;
+    background-color: aqua;
+    border-radius: 20px;
+}
+.btn17:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.btn18{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 1px solid coral;
+    transition: all 0.2s ease-in;
+    color: white;
+    background-color: coral;
+    border-radius: 20px;
+}
+.btn18:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.btn19{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 2px solid red;
+    transition: all 0.2s ease-in;
+    color: white;
+    background-color: red;
+    border-radius: 20px;
+}
+.btn19:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.wrap6{
+    width: 1200px;
+    margin: 10px auto;
+    background-color: papayawhip;
+    padding: 15px;
+    box-sizing: border-box;
+
+}
+.btn20{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 2px solid deepskyblue;
+    transition: all 0.2s ease-in;
+    color: white;
+    background-color: deepskyblue;
+    border-radius: 3px;
+    border-bottom: 3px solid darkblue;
+}
+.btn20:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}.btn21{
+     display: inline-block;
+     padding: 10px 16px;
+     text-decoration: none;
+     border: 1px solid greenyellow;
+     transition: all 0.2s ease-in;
+     color: white;
+     background-color: greenyellow;
+     border-radius: 3px;
+    border-bottom: 3px solid green;
+ }
+.btn21:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.btn22{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 1px solid aqua;
+    transition: all 0.2s ease-in;
+    color: white;
+    background-color: aqua;
+    border-radius: 3px;
+    border-bottom: 3px solid deepskyblue;
+}
+.btn22:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.btn23{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 1px solid coral;
+    transition: all 0.2s ease-in;
+    color: white;
+    background-color: coral;
+    border-radius: 3px;
+    border-bottom: 3px solid darkgoldenrod;
+}
+.btn23:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
+.btn24{
+    display: inline-block;
+    padding: 10px 16px;
+    text-decoration: none;
+    border: 2px solid red;
+    transition: all 0.2s ease-in;
+    color: white;
+    background-color: red;
+    border-radius: 3px;
+    border-bottom: 3px solid indianred;
+}
+.btn24:active{
+    border-bottom-width: 3px;
+    margin-top: 3px;
+}
